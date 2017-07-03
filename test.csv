@@ -1,0 +1,99 @@
+zipcode,placename,state,abrv,county,latitude,longitude
+00501,Holtsville,New York,NY,Suffolk,40.8154,-73.0451
+00544,Holtsville,New York,NY,Suffolk,40.8154,-73.0451
+01001,Agawam,Massachusetts,MA,Hampden,42.0702,-72.6227
+01002,Amherst,Massachusetts,MA,Hampshire,42.3671,-72.4646
+01003,Amherst,Massachusetts,MA,Hampshire,42.3919,-72.5248
+01004,Amherst,Massachusetts,MA,Hampshire,42.3845,-72.5132
+01005,Barre,Massachusetts,MA,Worcester,42.4097,-72.1084
+01007,Belchertown,Massachusetts,MA,Hampshire,42.2751,-72.411
+01008,Blandford,Massachusetts,MA,Hampden,42.1829,-72.9361
+01009,Bondsville,Massachusetts,MA,Hampden,42.2061,-72.3405
+01010,Brimfield,Massachusetts,MA,Hampden,42.1165,-72.1885
+01011,Chester,Massachusetts,MA,Hampden,42.2794,-72.9888
+01012,Chesterfield,Massachusetts,MA,Hampshire,42.3923,-72.8256
+01013,Chicopee,Massachusetts,MA,Hampden,42.1487,-72.6079
+01014,Chicopee,Massachusetts,MA,Hampden,42.1707,-72.6048
+01020,Chicopee,Massachusetts,MA,Hampden,42.1764,-72.5761
+01021,Chicopee,Massachusetts,MA,Hampden,42.1707,-72.6048
+01022,Chicopee,Massachusetts,MA,Hampden,42.1934,-72.5544
+01026,Cummington,Massachusetts,MA,Hampshire,42.4633,-72.9202
+01027,Easthampton,Massachusetts,MA,Hampshire,42.2668,-72.669
+01028,East Longmeadow,Massachusetts,MA,Hampden,42.0672,-72.5056
+01029,East Otis,Massachusetts,MA,Berkshire,42.1909,-73.0517
+01030,Feeding Hills,Massachusetts,MA,Hampden,42.0718,-72.6751
+01031,Gilbertville,Massachusetts,MA,Worcester,42.3322,-72.1986
+01032,Goshen,Massachusetts,MA,Hampshire,42.4404,-72.7995
+01033,Granby,Massachusetts,MA,Hampshire,42.2557,-72.52
+01034,Granville,Massachusetts,MA,Hampden,42.1127,-72.952
+01035,Hadley,Massachusetts,MA,Hampshire,42.3606,-72.5715
+01036,Hampden,Massachusetts,MA,Hampden,42.0648,-72.4318
+01037,Hardwick,Massachusetts,MA,Worcester,42.3479,-72.2253
+01038,Hatfield,Massachusetts,MA,Hampshire,42.3844,-72.6167
+01039,Haydenville,Massachusetts,MA,Hampshire,42.3818,-72.7032
+01040,Holyoke,Massachusetts,MA,Hampden,42.202,-72.6262
+01041,Holyoke,Massachusetts,MA,Hampden,42.2043,-72.6162
+01050,Huntington,Massachusetts,MA,Hampshire,42.2653,-72.8733
+01053,Leeds,Massachusetts,MA,Hampshire,42.3543,-72.7034
+01054,Leverett,Massachusetts,MA,Franklin,42.4682,-72.4993
+01056,Ludlow,Massachusetts,MA,Hampden,42.1728,-72.471
+01057,Monson,Massachusetts,MA,Hampden,42.101,-72.3196
+01059,North Amherst,Massachusetts,MA,Hampshire,42.4104,-72.5309
+01060,Northampton,Massachusetts,MA,Hampshire,42.3223,-72.6313
+01061,Northampton,Massachusetts,MA,Hampshire,42.3696,-72.636
+01062,Florence,Massachusetts,MA,Hampshire,42.3219,-72.6928
+01063,Northampton,Massachusetts,MA,Hampshire,42.3179,-72.6402
+01066,North Hatfield,Massachusetts,MA,Hampshire,42.4067,-72.6339
+01068,Oakham,Massachusetts,MA,Worcester,42.348,-72.0513
+01069,Palmer,Massachusetts,MA,Hampden,42.1762,-72.3288
+01070,Plainfield,Massachusetts,MA,Hampshire,42.5144,-72.9183
+01071,Russell,Massachusetts,MA,Hampden,42.1471,-72.8403
+01072,Shutesbury,Massachusetts,MA,Franklin,42.482,-72.4213
+01073,Southampton,Massachusetts,MA,Hampshire,42.2247,-72.7194
+01074,South Barre,Massachusetts,MA,Worcester,42.3854,-72.0954
+01075,South Hadley,Massachusetts,MA,Hampshire,42.2375,-72.5811
+01077,Southwick,Massachusetts,MA,Hampden,42.0511,-72.7706
+01079,Thorndike,Massachusetts,MA,Hampden,42.1929,-72.3296
+01080,Three Rivers,Massachusetts,MA,Hampden,42.1819,-72.3624
+01081,Wales,Massachusetts,MA,Hampden,42.0627,-72.2046
+01082,Ware,Massachusetts,MA,Hampshire,42.2618,-72.2583
+01083,Warren,Massachusetts,MA,Worcester,42.204,-72.1994
+01084,West Chesterfield,Massachusetts,MA,Hampshire,42.3903,-72.8709
+01085,Westfield,Massachusetts,MA,Hampden,42.1251,-72.7495
+01086,Westfield,Massachusetts,MA,Hampden,42.1734,-72.848
+01088,West Hatfield,Massachusetts,MA,Hampshire,42.3906,-72.6469
+01089,West Springfield,Massachusetts,MA,Hampden,42.1151,-72.6411
+01090,West Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01092,West Warren,Massachusetts,MA,Worcester,42.2029,-72.229
+01093,Whately,Massachusetts,MA,Franklin,42.4427,-72.6525
+01094,Wheelwright,Massachusetts,MA,Worcester,42.3582,-72.1408
+01095,Wilbraham,Massachusetts,MA,Hampden,42.1245,-72.4464
+01096,Williamsburg,Massachusetts,MA,Hampshire,42.4085,-72.778
+01097,Woronoco,Massachusetts,MA,Hampden,42.164,-72.8295
+01098,Worthington,Massachusetts,MA,Hampshire,42.3843,-72.9314
+01101,Springfield,Massachusetts,MA,Hampden,42.1015,-72.5898
+01102,Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01103,Springfield,Massachusetts,MA,Hampden,42.1029,-72.5887
+01104,Springfield,Massachusetts,MA,Hampden,42.1288,-72.5778
+01105,Springfield,Massachusetts,MA,Hampden,42.0999,-72.5783
+01106,Longmeadow,Massachusetts,MA,Hampden,42.0507,-72.5676
+01107,Springfield,Massachusetts,MA,Hampden,42.1179,-72.6065
+01108,Springfield,Massachusetts,MA,Hampden,42.0853,-72.5584
+01109,Springfield,Massachusetts,MA,Hampden,42.1145,-72.5543
+01111,Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01115,Springfield,Massachusetts,MA,Hampden,42.1029,-72.5916
+01116,Longmeadow,Massachusetts,MA,Hampden,42.1707,-72.6048
+01118,Springfield,Massachusetts,MA,Hampden,42.0929,-72.5274
+01119,Springfield,Massachusetts,MA,Hampden,42.1247,-72.5121
+01128,Springfield,Massachusetts,MA,Hampden,42.0944,-72.4889
+01129,Springfield,Massachusetts,MA,Hampden,42.1223,-72.4876
+01138,Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01139,Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01144,Springfield,Massachusetts,MA,Hampden,42.1018,-72.5915
+01151,Indian Orchard,Massachusetts,MA,Hampden,42.1532,-72.505
+01152,Springfield,Massachusetts,MA,Hampden,42.1707,-72.6048
+01199,Springfield,Massachusetts,MA,Hampden,42.1199,-72.605
+01201,Pittsfield,Massachusetts,MA,Berkshire,42.4531,-73.2471
+01202,Pittsfield,Massachusetts,MA,Berkshire,42.3929,-73.2285
+01203,Pittsfield,Massachusetts,MA,Berkshire,42.3929,-73.2285
+01220,Adams,Massachusetts,MA,Berkshire,42.6223,-73.1172

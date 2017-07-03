@@ -1,0 +1,26 @@
+{
+  "name": "jobs-scraper",
+  "version": "0.0.0",
+  "author": "Ethan Graf <graf.ethan@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build": "npm install",
+    "start": "node app.js",
+    "dev": "mongod -f models/mongod.conf & node app.js",
+    "mongo-kill": "killall mongod"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cron": "^1.2.1",
+    "csvtojson": "^1.1.7",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "i": "^0.3.5",
+    "morgan": "~1.6.1",
+    "node-cron": "^1.2.0",
+    "node-schedule": "^1.2.3",
+    "satori-rtm-sdk": "^1.0.2",
+    "satori-sdk-js": "^1.0.1",
+    "scraperjs": "^1.2.0"
+  }
+}
