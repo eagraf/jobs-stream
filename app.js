@@ -50,7 +50,8 @@ var  getLast = (data, index) => {
         var boxes = $('.row.result');
 
         // Scrape job name
-        job.name = $(boxes[0]).find('a.turnstileLink').text().trim();
+        var name  = $(boxes[0]).find('a.turnstileLink').text().trim();
+        job.name = name.split('\n')[0];
 
         // Scrape company name
         job.company = $(boxes[0]).find('.company>span>a').text().trim();
@@ -107,7 +108,8 @@ var check = (index) => {
 
             var job = {};
 
-            job.name = $(boxes[i]).find('a.turnstileLink').text().trim();
+            var name = $(boxes[i]).find('a.turnstileLink').text().trim();
+            job.name = name.split('\n')[0];
 
             job.company = $(boxes[i]).find('.company>span>a').text().trim();
             if (!job.company) job.company = $(boxes[i]).find('.company').text().trim();
